@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Leereenheden.cs" />
+    <Compile Include="Lessen.cs" />
     <Compile Include="Toetsen.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

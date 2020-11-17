@@ -41,7 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BeoordelingsCriterea.cs" />
+    <Compile Include="Leereenheid.cs" />
     <Compile Include="Leeruitkomst.cs" />
+    <Compile Include="Les.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Toets.cs" />
   </ItemGroup>
